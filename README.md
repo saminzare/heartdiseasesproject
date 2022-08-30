@@ -14,5 +14,4 @@ between the heart rate of 140 and 170. Further, several machine learning classif
 Neighbors (KNN), Decision Trees, Gaussian Naïve Bayes, along with Logistic Regression, were trained
 using the selected features, and their performances were compared to determine the best approach to
 the classification problem. Experimental results illustrate that KNN and GNB classifiers have best
-performed and reached a classification accuracy of 86.81% and %87.12, respectively, in detecting heart
-diseases.
+performed.
